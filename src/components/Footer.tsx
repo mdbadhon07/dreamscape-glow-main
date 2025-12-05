@@ -10,7 +10,7 @@ const Footer = () => {
             <div>
               <h3 className="text-3xl font-bold mb-2 glow-text">
                 <span className="bg-gradient-to-r from-purple-primary via-cyan-primary to-pink-primary bg-clip-text text-transparent">
-                  Alex Chen
+                  Tamim Ahmed
                 </span>
               </h3>
               <p className="text-foreground/70">
@@ -25,7 +25,7 @@ const Footer = () => {
                 { name: 'GitHub', icon: '🐙', href: '#' },
                 { name: 'Twitter', icon: '🐦', href: '#' },
                 { name: 'Instagram', icon: '📸', href: '#' },
-                { name: 'Dribbble', icon: '🏀', href: '#' }
+                { name: 'Facebook', icon: '🏀', href: '#' }
               ].map((social) => (
                 <a
                   key={social.name}
@@ -54,7 +54,7 @@ const Footer = () => {
             {/* Copyright */}
             <div className="pt-6 border-t border-glass-border/30">
               <p className="text-foreground/50 text-sm">
-                © {currentYear} Alex Chen. All rights reserved. Built with ❤️ and lots of ☕
+                © {currentYear} Tamim Ahmed. All rights reserved. Built with ❤️ and lots of ☕
               </p>
             </div>
           </div>

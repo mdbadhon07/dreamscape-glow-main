@@ -17,7 +17,7 @@ const Hero = () => {
         <div className="glass-hero rounded-3xl p-12 floating">
           <h1 className="text-6xl md:text-8xl font-bold mb-6 glow-text">
             <span className="bg-gradient-to-r from-purple-light via-cyan-primary to-pink-primary bg-clip-text text-transparent">
-              Badhon Ahmed
+              Tamim Ahmed
             </span>
           </h1>
           

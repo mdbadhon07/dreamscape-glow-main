@@ -44,7 +44,7 @@ const Navigation = () => {
               onClick={() => scrollToSection('hero')}
             >
               <span className="bg-gradient-to-r from-purple-primary to-cyan-primary bg-clip-text text-transparent">
-                BA
+                TAMIM
               </span>
             </div>
 
