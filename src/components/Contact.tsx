@@ -66,8 +66,8 @@ const Contact = () => {
                     🐙
                   </div>
                   <div>
-                    <p className="font-medium text-foreground/90">GitHub</p>
-                    <p className="text-foreground/70">@TamimAhmed</p>
+                    <p className="font-medium text-foreground/90">Whatsapp</p>
+                    <p className="text-foreground/70">+8801763098364</p>
                   </div>
                 </div>
               </div>
